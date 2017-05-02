@@ -5,6 +5,6 @@
         "baseUrl": "src",
         "target":  "es5",
         "sourceMap": true,
-        "outDir": "./dist"
+        "outDir": "dist"
     }
 }
