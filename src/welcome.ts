@@ -6,4 +6,4 @@ class MyGreeter {
 
 let greeter: MyGreeter = new MyGreeter();
 
-console.log(greeter.greet('Peter'));
+console.log(greeter.greet('Janos'));
