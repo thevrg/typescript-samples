@@ -1,0 +1,25 @@
+{
+  "name": "typescript-samples",
+  "version": "1.0.0",
+  "description": "TypeScript Samples for Angular training",
+  "main": "src/welcome.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thevrg/typescript-samples.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Peter Varga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thevrg/typescript-samples/issues"
+  },
+  "homepage": "https://github.com/thevrg/typescript-samples#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
