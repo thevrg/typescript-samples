@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/dist/out-tsc/welcome.js",
+            "program": "${workspaceRoot}/dist/welcome.js",
             "outFiles": []
         },
         {

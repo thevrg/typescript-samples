@@ -2,7 +2,7 @@
   "name": "typescript-samples",
   "version": "1.0.0",
   "description": "TypeScript Samples for Angular training",
-  "main": "src/welcome.js",
+  "main": "dist/welcome.js",
   "scripts": {
     "test": "test"
   },
